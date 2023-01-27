@@ -14,8 +14,7 @@ public class Arithmetic {
     public static void main(String[] args) {
         Arithmetic arithmetic = new Arithmetic();
         System.out.println(+arithmetic.add(2, 3));
-        System.out.println(+arithmetic.substract(2, 3));
+        System.out.println("hy this is a test"));
         System.out.println(+arithmetic.multiply(2, 3));
         System.out.println(+arithmetic.division(9, 3));
     }
-}
